@@ -12,10 +12,10 @@ pattern to provide a user friendly decision support system. Users can filter ani
 rescue specialization and dynamically view updates through a data table, geolocation map, 
 and outcome frequency chart. 
 
-Features 
-• MongoDB database integration using a custom Python CRUD module 
-• Interactive dashboard built with Dash and JupyterDash 
-• Radio button filtering for rescue categories 
+Features \
+• MongoDB database integration using a custom Python CRUD module \
+• Interactive dashboard built with Dash and JupyterDash \
+• Radio button filtering for rescue categories \
 • Dynamic data table with sorting, filtering, and pagination 
 • Geolocation map visualization using Leaflet 
 • Outcome type frequency chart for data insights 
